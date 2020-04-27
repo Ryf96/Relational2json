@@ -1,2 +1,3 @@
 # Relational2json
-convert relational data to tree-structured data
+This program aims to convert relational data to tree-structured data (JSON).
+
